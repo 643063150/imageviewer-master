@@ -1,5 +1,5 @@
 # imageviewer  [![](https://jitpack.io/v/achenglike/imageviewer.svg)](https://jitpack.io/#achenglike/imageviewer)
-图片浏览库，基本完全参考(说拷贝更合适)https://github.com/stfalcon-studio/FrescoImageViewer ,只是因为这个库使用了fresco，才稍微改造了下。解除了对图片库的依赖
+图片浏览库，基本完全参考(说拷贝更合适)https://github.com/stfalcon-studio/FrescoImageViewer ,只是因为这个库使用了fresco，才稍微改造了下。解除了对图片库的依赖 增加了自定义的占位图 重写了部分手势逻辑
 
 ## 使用到的库
 
